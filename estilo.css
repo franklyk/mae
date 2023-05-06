@@ -8,3 +8,9 @@ img{
     height: auto;
     width: 100%;
 }
+@media (max-width: 450px) {
+    img{
+    width: 100%;
+    }
+
+}
